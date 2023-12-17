@@ -1,0 +1,83 @@
+button {
+    background: linear-gradient(to bottom right, blue 30%, white);
+    color: white;
+    border-style: inset black;
+}
+h1{
+    color: brown;
+    text-shadow: -5px 3px 5px #a76e2a;
+    font-family: Times New Roman;
+    
+}
+a{
+    color: indigo;
+    text-style: none;
+    text-decoration: none;
+}
+#head{
+    background: yellow;
+    opacity: 90%;
+    position: relative;
+    width: 270px;
+    top: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: -3px 5px 5px #000000;
+}
+#top{
+    background: linear-gradient(to top right, blue, white);
+    opacity: 70%;
+    height: 120px;
+    padding: 20px;
+    border-radius: 10px;
+}
+body {
+    background: linear-gradient(to top left, black, blue, black);
+    color: white;
+}
+#middle-block{
+    background: linear-gradient(to top left, blue, white);
+    opacity: 70%;
+    height: ;
+    border-radius: 10px;
+    padding: 10px;
+}
+hr{
+    background: #6e171cb;
+    opacity: 20%
+}
+h3{
+    position: relative;
+    left: 10px;
+}
+#last-block{
+     background: linear-gradient(to top left, blue, white);
+    opacity: 70%;
+    height: ;
+    border-radius: 10px;
+    padding: 20px;
+}
+#middle{
+    background: yellow;
+    opacity: 90%;
+    position: relative;
+    width: 300px;
+    top: 22px;
+    color: black;
+    padding: 5px;
+    border-radius: 10px;
+    box-shadow: 3px 5px 5px #000000;
+
+}
+#last{
+    background: yellow;
+    opacity: 90%;
+    position: relative;
+    width: 300px;
+    top: ;
+    color: black;
+    padding: 5px;
+    border-radius: 10px;
+    box-shadow: 3px 5px 5px #000000;
+
+}
